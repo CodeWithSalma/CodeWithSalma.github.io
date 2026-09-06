@@ -1,0 +1,5 @@
+.md-typeset p,
+.md-typeset li,
+.md-typeset blockquote {
+  text-align: justify;
+}
