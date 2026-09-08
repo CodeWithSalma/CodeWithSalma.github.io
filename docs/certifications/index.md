@@ -1,5 +1,65 @@
 # Certifications
 
+## Continuous Integration with Jenkins
+Issued by Test Automation University  <br><small>(September 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/Continuous%20Integration%20with%20Jenkins.png){ width="700" }
+        <figcaption>
+        Continuous Integration with Jenkins Certificate<br>
+        [Credential link](https://testautomationu.applitools.com/certificate/?id=3922c30d)
+        </figcaption>
+    </figure>
+
+## Selenium Webdriver with Python
+Issued by Test Automation University  <br><small>(September 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/Selenium%20Webdriver%20with%20Python.png){ width="700" }
+        <figcaption>
+        Selenium Webdriver with Python Certificate<br>
+        [Credential link](https://testautomationu.applitools.com/certificate/?id=4c8dbeb5)
+        </figcaption>
+    </figure>
+
+## API Test Automation with Postman
+Issued by Test Automation University  <br><small>(September 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/API%20Test%20Automation%20with%20Postman.png){ width="700" }
+        <figcaption>
+        API Test Automation with Postman Certificate<br>
+        [Credential link](https://testautomationu.applitools.com/certificate/?id=530e6dbe)
+        </figcaption>
+    </figure>
+
+## Introduction to Playwright
+Issued by Test Automation University  <br><small>(August 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/Introduction%20to%20Playwright.png){ width="700" }
+        <figcaption>
+        Introduction to Playwright Certificate<br>
+        [Credential link](https://testautomationu.applitools.com/certificate/?id=25573dc8)
+        </figcaption>
+    </figure>
+
+## Introduction to pytest
+Issued by Test Automation University  <br><small>(August 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/pytest.png){ width="700" }
+        <figcaption>
+        Introduction to pytest Certificate<br>
+        [Credential link](https://testautomationu.applitools.com/certificate/?id=284a4050)
+        </figcaption>
+    </figure>
+
 ## Jira Service Management with AI Fundamentals
 Issued by Atlassian  <br><small>(September 2026 - September 2027)</small>
 
