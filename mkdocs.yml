@@ -35,18 +35,21 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: pink
-      accent: purple
+      Primary: Deep Blue
+      Accent: Cyan
+      Background: White / Soft Gray
+      Dark: Navy / Charcoal
   # Palette toggle for dark mode    
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      primary: indigo
-      accent: deep purple
+      Primary: Indigo
+      Accent: Cyan
   font: 
-    text: Roboto
-    code: Roboto Mono
+    Headings: Inter
+    Body: Inter
+    Code: JetBrains Mono
 
 extra:
   social:
