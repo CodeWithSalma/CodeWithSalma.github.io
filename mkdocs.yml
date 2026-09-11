@@ -47,9 +47,8 @@ theme:
       Primary: Indigo
       Accent: Cyan
   font: 
-    Headings: Inter
-    Body: Inter
-    Code: JetBrains Mono
+    text: Inter
+    code: JetBrains Mono
 
 extra:
   social:

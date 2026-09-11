@@ -1,5 +1,228 @@
+```css
+/* =========================================================
+   GLOBAL TYPOGRAPHY
+   ========================================================= */
+
+:root {
+  --portfolio-body-size: 17px;
+  --portfolio-body-line-height: 1.7;
+}
+
+/* Main content */
+.md-typeset {
+  font-size: var(--portfolio-body-size);
+  line-height: var(--portfolio-body-line-height);
+}
+
+
+/* =========================================================
+   HEADINGS
+   ========================================================= */
+
+/* H1 */
+.md-typeset h1 {
+  font-size: 2rem;
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* H2 */
+.md-typeset h2 {
+  font-size: 1.6rem;
+  line-height: 1.25;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+/* H3 */
+.md-typeset h3 {
+  font-size: 1.3rem;
+  line-height: 1.3;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.6rem;
+}
+
+/* H4 */
+.md-typeset h4 {
+  font-size: 1.1rem;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+
+/* =========================================================
+   BODY TEXT
+   ========================================================= */
+
 .md-typeset p,
 .md-typeset li,
 .md-typeset blockquote {
-  text-align: justify;
+  text-align: left;
+}
+
+/* Improve readability */
+.md-typeset p {
+  max-width: 75ch;
+  margin-bottom: 1rem;
+}
+
+
+/* =========================================================
+   LISTS
+   ========================================================= */
+
+.md-typeset ul,
+.md-typeset ol {
+  line-height: 1.65;
+}
+
+.md-typeset li {
+  margin-bottom: 0.35rem;
+}
+
+
+/* =========================================================
+   LINKS
+   ========================================================= */
+
+.md-typeset a {
+  font-weight: 500;
+}
+
+
+/* =========================================================
+   NAVIGATION
+   ========================================================= */
+
+/* Main navigation */
+.md-tabs__link {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* Sidebar navigation */
+.md-nav__link {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+
+/* =========================================================
+   TABLE OF CONTENTS
+   ========================================================= */
+
+.md-nav--secondary .md-nav__link {
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+
+/* =========================================================
+   CODE
+   ========================================================= */
+
+.md-typeset code,
+.md-typeset pre,
+.md-typeset .highlight {
+  font-family: "JetBrains Mono", monospace;
+}
+
+.md-typeset code {
+  font-size: 0.85em;
+}
+
+
+/* =========================================================
+   CODE BLOCK
+   ========================================================= */
+
+.md-typeset pre {
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+
+/* =========================================================
+   BLOCKQUOTE
+   ========================================================= */
+
+.md-typeset blockquote {
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+
+/* =========================================================
+   SMALL / META TEXT
+   ========================================================= */
+
+.md-typeset small {
+  font-size: 13px;
+}
+
+
+/* =========================================================
+   RESPONSIVE TYPOGRAPHY
+   ========================================================= */
+
+/* Tablet */
+@media screen and (max-width: 1024px) {
+
+  .md-typeset {
+    font-size: 16px;
+  }
+
+  .md-typeset h1 {
+    font-size: 1.9rem;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.5rem;
+  }
+
+  .md-typeset h3 {
+    font-size: 1.25rem;
+  }
+}
+
+
+/* Mobile */
+@media screen and (max-width: 600px) {
+
+  .md-typeset {
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .md-typeset h1 {
+    font-size: 1.75rem;
+    line-height: 1.2;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.4rem;
+    line-height: 1.25;
+  }
+
+  .md-typeset h3 {
+    font-size: 1.2rem;
+  }
+
+  .md-typeset p {
+    max-width: 100%;
+  }
+
+  .md-tabs__link {
+    font-size: 13px;
+  }
+
+  .md-nav__link {
+    font-size: 14px;
+  }
 }
