@@ -1,4 +1,5 @@
 # Hi, I'm Salma 
+Automation Engineer | RPA Developer | UiPath Developer | Python & System Automation | Automation & System Reliability | Workload Automation | Technical Documentation | Manual Tester | Banking Experience
 
 <figure markdown="span">
     ![Screenshot](img/Salma%20Pratiwi.png){ width="200" }
@@ -9,9 +10,16 @@
 
 ## About Me
 
-Automation-focused IT Operations Engineer with 5+ years of experience in managing mission-critical systems in a high-availability banking environment. 
+Automation-focused IT Operations Engineer with 5+ years of experience in managing mission-critical systems in a high-availability banking environment. Skilled in automating operational processes,
+supporting troubleshooting and incident resolution, improving system reliability, and optimizing operational workflows to reduce manual effort and improve efficiency. Currently expanding in Python, UiPath, Linux, Git, Docker, Kubernetes, Ansible, API testing, CI/CD, and technical documentation.
 
-I specialize in automating operational processes, supporting troubleshooting incidents, and improving system reliability. Strong understanding of system operations, workflow automation, incident handling, and cross-functional collaboration. Currently seeking opportunities as an RPA Developer, Automation Engineer, or Business Process Improvement Specialist.
+???+ info "[ Download CV ]"
+    <figure markdown="span">
+        ![Screenshot](pdf/Salma%20Pratiwi%20CV-Support.pdf){ width="700" height="500" style="border:none;" }
+        <figcaption>
+        [ Download CV ]<br>
+        </figcaption>
+    </figure>
 
 ## Experience
 
