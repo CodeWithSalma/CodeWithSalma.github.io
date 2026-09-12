@@ -512,3 +512,289 @@
   }
 
 }
+
+/* =========================================================
+   VIEW ALL PROJECTS CTA
+   ========================================================= */
+
+.projects-cta {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0 3rem;
+}
+
+.projects-cta .portfolio-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0.7rem 1.4rem;
+
+  border-radius: 999px;
+
+  font-size: 14px;
+  font-weight: 600;
+
+  text-decoration: none !important;
+
+  color: white !important;
+  background: var(--md-primary-fg-color);
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    background-color 0.2s ease;
+}
+
+.projects-cta .portfolio-button:hover {
+  transform: translateY(-3px);
+
+  box-shadow:
+    0 8px 20px rgba(0, 0, 0, 0.14);
+}
+
+.projects-cta .portfolio-button:active {
+  transform: translateY(-1px);
+}
+
+/* =========================================================
+   TECH TAGS / SKILL CHIPS
+   ========================================================= */
+
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.8rem 0 1rem;
+}
+
+.tech-tag {
+  display: inline-flex;
+  align-items: center;
+
+  padding: 0.3rem 0.65rem;
+
+  border-radius: 5px;
+
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.3;
+
+  white-space: nowrap;
+
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.tech-tag:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+}
+
+
+/* Testing / Performance */
+.tech-tag.testing {
+  color: #a86600;
+  background: #fff6df;
+  border: 1px solid #f0d99b;
+}
+
+
+/* Automation / API */
+.tech-tag.automation {
+  color: #6877d9;
+  background: #eef0ff;
+  border: 1px solid #cdd3ff;
+}
+
+/* =========================================================
+   EDUCATION TIMELINE
+   ========================================================= */
+
+.education-timeline {
+  position: relative;
+
+  margin: 2rem 0 3rem;
+  padding-left: 2rem;
+}
+
+
+/* Vertical line */
+
+.education-timeline::before {
+  content: "";
+
+  position: absolute;
+
+  left: 7px;
+  top: 8px;
+  bottom: 0;
+
+  width: 2px;
+
+  background: var(--md-primary-fg-color);
+
+  opacity: 0.25;
+}
+
+
+/* Each education entry */
+
+.education-item {
+  position: relative;
+
+  padding-bottom: 2.8rem;
+}
+
+
+/* Timeline dot */
+
+.education-dot {
+  position: absolute;
+
+  left: -2rem;
+  top: 5px;
+
+  width: 14px;
+  height: 14px;
+
+  border-radius: 50%;
+
+  background: var(--md-primary-fg-color);
+
+  border: 3px solid var(--md-default-bg-color);
+
+  box-shadow: 0 0 0 2px var(--md-primary-fg-color);
+}
+
+
+/* Date */
+
+.education-date {
+  display: inline-block;
+
+  margin-bottom: 0.35rem;
+
+  font-size: 13px;
+  font-weight: 600;
+
+  color: var(--md-accent-fg-color);
+}
+
+
+/* Degree */
+
+.education-content h3 {
+  margin-top: 0.2rem;
+  margin-bottom: 0.3rem;
+
+  font-size: 21px;
+  line-height: 1.35;
+}
+
+
+/* University */
+
+.education-school {
+  margin: 0 0 0.5rem !important;
+
+  font-size: 15px !important;
+  font-weight: 500;
+
+  color: var(--md-default-fg-color);
+}
+
+
+/* Grade */
+
+.education-grade {
+  display: inline-block;
+
+  padding: 0.25rem 0.65rem;
+
+  border-radius: 999px;
+
+  font-size: 12px;
+  font-weight: 600;
+
+  color: var(--md-primary-fg-color);
+
+  background: rgba(183, 110, 121, 0.08);
+
+  border: 1px solid rgba(183, 110, 121, 0.22);
+}
+
+
+/* Activity / highlight sections */
+
+.education-section {
+  margin-top: 1.1rem;
+}
+
+.education-section strong {
+  display: block;
+
+  margin-bottom: 0.35rem;
+
+  font-size: 14px;
+  font-weight: 600;
+
+  color: var(--md-default-fg-color);
+}
+
+.education-section ul {
+  margin-top: 0.3rem;
+}
+
+.education-section li {
+  margin-bottom: 0.35rem;
+
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+/* =========================================================
+   ORGANIZATIONS
+   ========================================================= */
+
+.organization-timeline {
+  margin-top: 1.5rem;
+}
+
+.organization-item {
+  padding-bottom: 2.5rem;
+}
+
+.organization-subtitle {
+  margin: -0.1rem 0 0.5rem !important;
+
+  font-size: 14px !important;
+  font-style: italic;
+
+  color: var(--md-default-fg-color--light);
+}
+
+.organization-affiliation {
+  display: inline-block;
+
+  margin-bottom: 0.8rem;
+
+  font-size: 12px;
+  font-weight: 500;
+
+  color: var(--md-primary-fg-color);
+}
+
+.organization-description {
+  max-width: 720px;
+
+  margin-top: 0.4rem !important;
+
+  font-size: 14px !important;
+  line-height: 1.65;
+
+  color: var(--md-default-fg-color);
+}
