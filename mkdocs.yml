@@ -35,17 +35,15 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      Primary: Deep Blue
-      Accent: Cyan
-      Background: White / Soft Gray
-      Dark: Navy / Charcoal
+      primary: pink
+      accent: purple
   # Palette toggle for dark mode    
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      Primary: Indigo
-      Accent: Cyan
+      primary: pink
+      accent: purple
   font: 
     text: Inter
     code: JetBrains Mono
@@ -75,7 +73,7 @@ nav:
         - BCA Associated Projects: projects/others/bca.md
         - Documentation with Mkdocs: projects/others/mkdocs.md
   - Certifications: certifications/index.md
-  - About: about/index.md
+  - About Me: about/index.md
 
 # Extensions  
 markdown_extensions:

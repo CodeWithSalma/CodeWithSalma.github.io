@@ -1,4 +1,148 @@
-# About
+# About Me
+
+## Experience
+
+<div class="timeline">
+
+  <div class="timeline-item">
+
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-content">
+
+      <span class="timeline-date">
+        Nov 2020 — Aug 2026
+      </span>
+
+      <h3>IT Operation Support Automation</h3>
+
+      <p class="timeline-company">
+        PT Bank Central Asia
+      </p>
+
+      <ul>
+        <li>Performed root cause analysis (RCA) for workload anomalies and engineered long-term preventive solutions to minimize job failures in a production environment.</li>
+        <li>Supported end-to-end system upgrades, infrastructure migrations, and disaster recovery (DR) simulations to ensure continuous operation of batch environments.</li>
+        <li>Partnered with cross-functional and application teams to streamline operational workflows and maximize system reliability.</li>
+        <li>Orchestrated process optimization by converting repetitive manual operations into event-driven automated tasks, significantly reducing human error.</li>
+        <li>Authored and maintained comprehensive technical documentation, standard operating procedures (SOPs), and operational guides to drive team-wide standardization.</li>
+      </ul>
+
+    </div>
+
+  </div>
+
+
+  <div class="timeline-item">
+
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-content">
+
+      <span class="timeline-date">
+        Jul 2017 — Aug 2017
+      </span>
+
+      <h3>Optical Engineer Intern</h3>
+
+      <p class="timeline-company">
+        PT Pembangunan Telekomunikasi Indonesia
+      </p>
+
+      <ul>
+        <li>Collaborated with senior network technicians in the PSB (Provisioning & Installation) division to deploy fiber optic cables and configure central network connections.</li>
+        <li>Gained hands-on experience in telecommunications infrastructure by executing end-to-end optical network installations for IndiHome services.</li>
+        <li>Supported the installation team by configuring network settings to the central exchange, ensuring successful service activation for customers.</li>
+      </ul>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+## Skills
+
+<div class="grid cards" markdown>
+
+- :fontawesome-solid-code: Programming Language
+
+    ---
+    - :material-language-python: : Python
+    - :material-language-java: : Java
+    - :material-language-javascript: : JavaScript
+
+- :material-network: Networking
+
+    ---
+    - :material-ip-network: : TCP/IP
+    - :material-dns: : DNS 
+    <!-- - :simple-mongodb: : MongoDB -->
+
+- :material-developer-board: Integrated Development Environment
+
+    ---
+    - :simple-pycharm: : PyCharm 
+    - :simple-intellijidea: : IntelliJ 
+    - :simple-uipath: : UiPath
+    - :material-microsoft-visual-studio-code: : Visual Studio Code
+    - :simple-postman: : Postman
+
+- :material-database: Database Management System
+
+    ---
+    - :simple-postgresql: : PostgreSQL
+    - :simple-mysql: : MySQL 
+    - :simple-mongodb: : MongoDB
+    - :material-database: : Oracle
+
+- :material-git: Versioning Control System
+
+    ---
+    - :simple-git: : Git
+    - :simple-github: : GitHub
+
+- :fontawesome-solid-computer: Operating System
+
+    ---
+    - :fontawesome-brands-windows: : Windows
+    - :simple-macos: : UNIX
+
+</div>
+
+## Education
+
+### Bachelor's degree, Telecommunication Engineering
+Telkom University <br><small>(August 2018 - August 2020)</small>
+
+Grade: 3.65/4.00
+
+Activities and societies: 
+
+- Cybersecurity Digitalent FGA Kominfo 2019 Internship Program Participant
+- Switching and Broadband Practice Assistant.
+
+Experience during college:
+
+- Plenary speaker at the 2nd Senaris Seminar.
+- Became 3rd winner on ICStar Hackathon 2020.  
+- Successfully published an international journal in EMITTER International Journal of Engineering Technology Vol. 8, No.2, 2020.3-rd with the journal-title "Performance Comparison of Genetic and Greedy Algorithms in Underlay Device-to-Device Communication"
+
+### Associate's degree, Telecommunication Engineering 
+Politeknik Elektronika Negeri Surabaya <br><small>(August 2015 - July 2018)</small>
+
+Grade: 3.53/4.00
+
+Activities and societies: 
+
+- BEM 2016/2017
+- BEM 2017/2018 
+
+Experience during college:
+
+- Senior staff of the Ministry of Foreign Affairs BEM PENS (2016-2017).
+- General treasurer of the Banten student forum in Surabaya (Forda Baduy).
 
 ## Honors & Awards
 

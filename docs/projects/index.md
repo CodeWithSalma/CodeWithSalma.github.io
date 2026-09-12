@@ -4,7 +4,7 @@ This section contains my technical projects and hands-on learning work.
 
 <!-- ## QA & Test Automation
 
-Projects related to test automation, API testing, and quality engineering. -->
+Projects related to test automation, API testing, and quality engineering.  -->
 
 ## RPA & Automation
 
@@ -27,3 +27,62 @@ Projects related to test automation, API testing, and quality engineering. -->
 ### [Technical Documentation Setup with MkDocs — Salma's Tech Journey](others/mkdocs.md)
 <small>A demonstration of technical writing and documentation-system design: building and structuring **Salma's Tech Journey**, a professional portfolio site, using MkDocs and the Material theme — covering site architecture, content standardization, and authoring workflow.
 </small>
+
+
+<!-- <h2>Featured Projects</h2>
+
+<div class="project-grid">
+
+  <div class="project-card">
+
+    <span class="project-category">
+      RPA & Automation
+    </span>
+
+    <h3>UiPath Invoice Processing</h3>
+
+    <p>
+      Automated invoice processing workflow using UiPath,
+      OCR, Gmail, and Excel.
+    </p>
+
+    <div class="skill-chips">
+      <span>UiPath</span>
+      <span>OCR</span>
+      <span>Excel</span>
+      <span>Gmail</span>
+    </div>
+
+    <a href="projects/rpa/uipath/">
+      View Project →
+    </a>
+
+  </div>
+
+
+  <div class="project-card">
+
+    <span class="project-category">
+      DevOps
+    </span>
+
+    <h3>Local DevOps Homelab</h3>
+
+    <p>
+      Infrastructure automation and configuration management
+      using Linux, Ansible, and virtualization.
+    </p>
+
+    <div class="skill-chips">
+      <span>Linux</span>
+      <span>Ansible</span>
+      <span>Git</span>
+    </div>
+
+    <a href="projects/devops/localdevops/">
+      View Project →
+    </a>
+
+  </div>
+
+</div> -->

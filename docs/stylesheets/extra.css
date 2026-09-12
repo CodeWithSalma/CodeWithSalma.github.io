@@ -217,3 +217,298 @@
     font-size: 13px;
   }
 }
+
+/* =========================================================
+   FEMININE PROFESSIONAL COLOR PALETTE
+   ========================================================= */
+
+/* Light mode */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #b76e79;
+  --md-primary-fg-color--light: #d9a0a8;
+  --md-primary-fg-color--dark: #8f4f5b;
+
+  --md-accent-fg-color: #9b6b8f;
+
+  --md-default-bg-color: #fffafa;
+  --md-default-fg-color: #2f2a2c;
+}
+
+
+/* Dark mode */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #d98c9a;
+  --md-primary-fg-color--light: #e8b4bd;
+  --md-primary-fg-color--dark: #b96b7a;
+
+  --md-accent-fg-color: #c49abb;
+
+  --md-default-bg-color: #211d20;
+  --md-default-fg-color: #f3eef0;
+}
+
+/* =========================================================
+   HERO SECTION
+   ========================================================= */
+
+.hero {
+  display: grid;
+  grid-template-columns: 1.3fr 0.7fr;
+  align-items: center;
+  gap: 3rem;
+
+  min-height: 420px;
+  padding: 3rem 0 4rem;
+}
+
+.hero-content {
+  max-width: 700px;
+}
+
+.hero-eyebrow {
+  margin: 0 0 0.6rem !important;
+
+  font-size: 13px !important;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: var(--md-accent-fg-color);
+}
+
+.hero h1 {
+  margin: 0 0 0.5rem;
+
+  font-size: 52px;
+  line-height: 1.1;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+.hero-subtitle {
+  margin: 0 0 1rem !important;
+
+  font-size: 16px !important;
+  font-weight: 600;
+}
+
+.hero-description {
+  max-width: 650px;
+
+  font-size: 16px !important;
+  line-height: 1.7;
+}
+
+.hero-image {
+  display: flex;
+  justify-content: center;
+}
+
+.hero-image img {
+  width: 250px;
+  height: 250px;
+
+  object-fit: cover;
+
+  border-radius: 50%;
+
+  border: 5px solid var(--md-primary-fg-color);
+
+  box-shadow:
+    0 15px 40px rgba(0, 0, 0, 0.12);
+}
+
+/* =========================================================
+   PROJECT CARDS
+   ========================================================= */
+
+.project-grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(2, minmax(0, 1fr));
+
+  gap: 1.25rem;
+
+  margin: 1.5rem 0 3rem;
+}
+
+.project-card {
+  padding: 1.5rem;
+
+  border: 1px solid var(--md-default-fg-color--lightest);
+
+  border-radius: 14px;
+
+  background: var(--md-default-bg-color);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+
+  border-color: var(--md-primary-fg-color);
+
+  box-shadow:
+    0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.project-category {
+  font-size: 12px;
+  font-weight: 600;
+
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+  color: var(--md-accent-fg-color);
+}
+
+.project-card h3 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.project-card p {
+  font-size: 15px !important;
+  line-height: 1.6;
+}
+
+.project-card a {
+  display: inline-block;
+
+  margin-top: 0.8rem;
+
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* =========================================================
+   SKILL CHIPS
+   ========================================================= */
+
+.skill-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+
+  margin-top: 1rem;
+}
+
+/* =========================================================
+   TIMELINE
+   ========================================================= */
+
+.timeline {
+  position: relative;
+
+  margin: 2rem 0 3rem;
+  padding-left: 2rem;
+}
+
+.timeline::before {
+  content: "";
+
+  position: absolute;
+
+  left: 6px;
+  top: 8px;
+  bottom: 0;
+
+  width: 2px;
+
+  background: var(--md-primary-fg-color);
+  opacity: 0.25;
+}
+
+.timeline-item {
+  position: relative;
+
+  padding-bottom: 2rem;
+}
+
+.timeline-dot {
+  position: absolute;
+
+  left: -2rem;
+  top: 6px;
+
+  width: 14px;
+  height: 14px;
+
+  border-radius: 50%;
+
+  background: var(--md-primary-fg-color);
+
+  border: 3px solid var(--md-default-bg-color);
+}
+
+.timeline-date {
+  font-size: 13px;
+  font-weight: 600;
+
+  color: var(--md-accent-fg-color);
+}
+
+.timeline-content h3 {
+  margin-top: 0.35rem;
+  margin-bottom: 0.2rem;
+}
+
+.timeline-company {
+  margin-top: 0 !important;
+
+  font-size: 14px !important;
+  font-weight: 500;
+}
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media screen and (max-width: 768px) {
+
+  .hero {
+    grid-template-columns: 1fr;
+
+    text-align: center;
+
+    padding: 2rem 0 3rem;
+  }
+
+  .hero-content {
+    margin: 0 auto;
+  }
+
+  .hero h1 {
+    font-size: 38px;
+  }
+
+  .hero-subtitle {
+    font-size: 20px !important;
+  }
+
+  .hero-actions {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .hero-image {
+    order: -1;
+  }
+
+  .hero-image img {
+    width: 180px;
+    height: 180px;
+  }
+
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .featured-project {
+    padding: 1.4rem;
+  }
+
+}
