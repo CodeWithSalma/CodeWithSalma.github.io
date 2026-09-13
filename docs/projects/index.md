@@ -81,7 +81,7 @@ Projects related to test automation, API testing, and quality engineering.  -->
     </span>
 
     <h3>
-      <a href="projects/devops/localdevops/">
+      <a href="devops/localdevops/">
         Local DevOps HomeLab with Docker, Kubernetes & Ansible
       </a>
     </h3>
@@ -97,7 +97,7 @@ Projects related to test automation, API testing, and quality engineering.  -->
       <span class="tech-tag">Docker</span>
     </div>
 
-    <a href="projects/devops/localdevops/" class="project-link">
+    <a href="devops/localdevops/" class="project-link">
       View Project →
     </a>
 
