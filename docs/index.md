@@ -88,7 +88,7 @@ Automation-focused IT Operations Engineer with 5+ years of experience in managin
 
 </div>
 
-[View education background →](about/index.md)
+[View education background →](about/index.md/#education)
 
 ## Core Skills
 

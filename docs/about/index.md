@@ -111,7 +111,9 @@
 
 </div>
 
-<h2 id="education">Education</h2>
+## Education
+
+<!-- <h2 id="education">Education</h2> -->
 
 <div class="education-timeline">
 
