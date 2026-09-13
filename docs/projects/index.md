@@ -97,7 +97,7 @@ Projects related to test automation, API testing, and quality engineering.  -->
       <span class="tech-tag">Docker</span>
     </div>
 
-    <a href="projects/devops/localdevops.md" class="project-link">
+    <a href="projects/devops/localdevops/" class="project-link">
       View Project →
     </a>
 
