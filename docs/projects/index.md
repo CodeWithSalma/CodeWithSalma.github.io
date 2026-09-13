@@ -81,7 +81,7 @@ Projects related to test automation, API testing, and quality engineering.  -->
     </span>
 
     <h3>
-      <a href="projects/devops/localdevops.md">
+      <a href="projects/devops/localdevops/">
         Local DevOps HomeLab with Docker, Kubernetes & Ansible
       </a>
     </h3>
