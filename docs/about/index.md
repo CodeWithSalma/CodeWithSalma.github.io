@@ -255,7 +255,7 @@ a Hackathon Competition which is held online with a RPA theme (Robotic Process A
 ### [Perfomance Comparison of Genetic and Greedy Algorithms in Underlay Device-to-Device Communication](https://emitter.pens.ac.id/index.php/emitter/article/view/566)
 <small> EMITTER International Journal of Engineering Technology · Dec 20, 2020 </small>
 
-D2D enables direct communications between users without routing via eNB, so the network load could be maintained. D2D scheme also can be underlayed on an existing cell using same resource with the conventional cellular users (CU). A good resource allocation algorithm is needed to achieve a proper quality of services and to maintain the interference level between D2D users and CUs. This works tries to analyze the performances of Genetics based resource allocation algorithm and then compared it with the conventional greedy algorithm.
+D2D enables direct communications between users without routing via eNB, so the network load can be maintained. D2D scheme can also be underlayed on an existing cell using the same resources as the conventional cellular users (CU). A good resource allocation algorithm is needed to achieve a proper quality of service and to maintain the interference level between D2D users and CUs. This work analyzes the performance of a genetics-based resource allocation algorithm and compares it with the conventional greedy algorithm.
 
 <h2 id="organizations">Organizations</h2>
 

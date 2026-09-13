@@ -28,7 +28,7 @@ Automation-focused IT Operations Engineer with 5+ years of experience in managin
     </figcaption>
 
     <p class="hero-subtitle">
-      Automation Engineer | RPA Developer | UiPath Developer | Python & System Automation | Automation & System Reliability | Workload Automation | Technical Documentation | Manual Tester | Banking Experience
+      Automation Engineer | RPA | System Reliability | DevOps | Workload Automation | Technical Documentation | Manual Tester | Banking Experience
     </p>
 
     <p class="hero-description">
