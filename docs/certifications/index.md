@@ -1,5 +1,17 @@
 # Certifications
 
+## Katalon Professional
+Issued by Katalon  <br><small>(October 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/Katalon-Professional-Certification.png){ width="700" }
+        <figcaption>
+        Katalon Professional Level Certificate<br>
+        [Credential link](https://academy.katalon.com/mcertificate/6ac33fc0ddb0c)
+        </figcaption>
+    </figure>
+
 ## Continuous Integration with Jenkins
 Issued by Test Automation University  <br><small>(September 2026)</small>
 
