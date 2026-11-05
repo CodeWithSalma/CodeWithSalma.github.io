@@ -1,5 +1,101 @@
 # Certifications
 
+## AWS with Hands-On Labs
+Issued by KodeKloud  <br><small>(November 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/AWS%20For%20Beginners%20with%20Hands-On%20Labs%20-%20Kodekloud%20-%20Salma%20Pratiwi.png){ width="700" }
+        <figcaption>
+        KodeKloud AWS for Beginners with Hands-On Labs Certificate<br>
+        [Credential link](https://learn.kodekloud.com/learn/certificate/2fe472f9-4061-4295-a5e4-abea074249fe)
+        </figcaption>
+    </figure>
+
+## Kubernetes - Hands-On Tutorial
+Issued by KodeKloud  <br><small>(November 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/Kubernetes%20for%20the%20Absolute%20Beginners%20-%20Hands-on%20Tutorial%20-%20Kodekloud%20-%20Salma%20Pratiwi.png){ width="700" }
+        <figcaption>
+        KodeKloud Kubernetes for the Absolute Beginners - Hands-On Tutorial Certificate<br>
+        [Credential link](https://learn.kodekloud.com/learn/certificate/4fba7050-b205-471b-9856-e0c690db3d69)
+        </figcaption>
+    </figure>
+
+## Terraform Basics
+Issued by KodeKloud  <br><small>(October 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/Terraform%20Basics%20Training%20Course%20-%20Kodekloud%20-%20Salma%20Pratiwi.png){ width="700" }
+        <figcaption>
+        KodeKloud Terraform Basics Training Course Certificate<br>
+        [Credential link](https://learn.kodekloud.com/learn/certificate/a61a07eb-1d0b-4243-a0fa-7161ccceef83)
+        </figcaption>
+    </figure>
+
+## Ansible Basics
+Issued by KodeKloud  <br><small>(October 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/Learn%20Ansible%20Basics%20-%20Beginners%20Course%20-%20Kodekloud%20-%20Salma%20Pratiwi.png){ width="700" }
+        <figcaption>
+        KodeKloud Ansible Basics - Beginners Course Certificate<br>
+        [Credential link](https://learn.kodekloud.com/learn/certificate/8d9d99b3-dd86-4c74-b897-1e9cdc331443)
+        </figcaption>
+    </figure>
+
+## Docker Training Course
+Issued by KodeKloud  <br><small>(October 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/Docker%20Training%20Course%20for%20the%20Absolute%20Beginner%20-%20KodeKloud%20-%20Salma%20Pratiwi.png){ width="700" }
+        <figcaption>
+        KodeKloud Docker Training Course for the Absolute Beginner Certificate<br>
+        [Credential link](https://learn.kodekloud.com/learn/certificate/6a266a1a-95d5-4d98-ab60-dcc94249e72c)
+        </figcaption>
+    </figure>
+
+## KodeKloud GIT
+Issued by KodeKloud  <br><small>(October 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/GIT%20for%20Beginners%20-%20KodeKloud%20-%20Salma%20Pratiwi.png){ width="700" }
+        <figcaption>
+        KodeKloud GIT for Beginners Certificate<br>
+        [Credential link](https://learn.kodekloud.com/learn/certificate/006614ab-f6ed-4bdd-83ad-c7f0c0acf911)
+        </figcaption>
+    </figure>
+
+## Shell Script for Beginners
+Issued by KodeKloud  <br><small>(October 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/Bash%20Scripting%20-%20Kodekloud%20-%20Salma%20Pratiwi.png){ width="700" }
+        <figcaption>
+        KodeKloud Shell Script for Beginners Certificate<br>
+        [Credential link](https://learn.kodekloud.com/learn/certificate/195df20b-9b46-4885-b410-1ee984fccf6d)
+        </figcaption>
+    </figure>
+
+## Linux Basics Course & Labs
+Issued by KodeKloud  <br><small>(October 2026)</small>
+
+???+ info "Show Credential"
+    <figure markdown="span">
+        ![Screenshot](img/Linux%20Basic%20Course%20-%20KodeKloud%20-%20Salma%20Pratiwi.png){ width="700" }
+        <figcaption>
+        KodeKloud Linux Basics Course & Labs Certificate<br>
+        [Credential link](https://learn.kodekloud.com/learn/certificate/8645a86d-e648-4f41-9aec-d9a9b5290580)
+        </figcaption>
+    </figure>
+    
 ## Katalon Professional
 Issued by Katalon  <br><small>(October 2026)</small>
 
