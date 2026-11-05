@@ -5,6 +5,9 @@ mkdocs<2.0
 mkdocs-autorefs
 mkdocs-material<10.0
 mkdocs-glightbox
+# selectolax 1.x breaks mkdocs-glightbox: all <img> tags vanish from the built HTML.
+# mkdocs-glightbox 0.5.2 loosened its pin to ">=0.3.29", so keep this pinned until upstream fixes it.
+selectolax==0.3.29
 mkdocs-git-revision-date-localized-plugin
 mkdocs-static-i18n
 pymdown-extensions
